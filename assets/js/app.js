@@ -1,7 +1,7 @@
 // Main Application Controller
 class CostCenterApp {
     constructor() {
-        this.apiBaseUrl = 'http://localhost:8000';
+        this.apiBaseUrl = 'https://holdprintwebonboardingai-test.azurewebsites.net/';
         this.currentSession = null;
         this.currentScreen = 'setup';
         this.costCenters = [];

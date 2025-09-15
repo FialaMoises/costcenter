@@ -1,7 +1,7 @@
 // Session Management Component
 class SessionManager {
     constructor(apiBaseUrl) {
-        this.apiBaseUrl = apiBaseUrl || 'http://localhost:8000';
+        this.apiBaseUrl = apiBaseUrl || 'https://holdprintwebonboardingai-test.azurewebsites.net/';
         this.currentSession = null;
         this.sessionState = {
             isActive: false,
