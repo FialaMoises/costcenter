@@ -1,0 +1,1749 @@
+[
+    {
+        "id": 1,
+        "name": "Administrativo",
+        "costCenterMethodId": "5abc00cf6b1520077c92ce37",
+        "totalAmount": 0,
+        "costCenterRoutineExpenses": [
+            {
+                "name": "Água",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e13",
+                    "name": "Água",
+                    "costCenterMethodId": [
+                        "5abc00cf6b1520077c92ce37"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Alimentação",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e14",
+                    "name": "Alimentação",
+                    "costCenterMethodId": [
+                        "5abc00cf6b1520077c92ce37"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Aluguel",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e15",
+                    "name": "Aluguel",
+                    "costCenterMethodId": [
+                        "5abc00cf6b1520077c92ce37"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Alvarás e taxas de funcionamento",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e16",
+                    "name": "Alvarás e taxas de funcionamento",
+                    "costCenterMethodId": [
+                        "5abc00cf6b1520077c92ce37"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Assinaturas",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e17",
+                    "name": "Assinaturas",
+                    "costCenterMethodId": [
+                        "5abc00cf6b1520077c92ce37"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Associações",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e18",
+                    "name": "Associações",
+                    "costCenterMethodId": [
+                        "5abc00cf6b1520077c92ce37"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Brindes / Cortesias / Doações",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e19",
+                    "name": "Brindes / Cortesias / Doações",
+                    "costCenterMethodId": [
+                        "5abc00cf6b1520077c92ce37"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Combustível",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e1a",
+                    "name": "Combustível",
+                    "costCenterMethodId": [
+                        "5abc00cf6b1520077c92ce37"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Contratos de Manutenção",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e1b",
+                    "name": "Contratos de manutenção",
+                    "costCenterMethodId": [
+                        "5abc00cf6b1520077c92ce37"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Correspondências",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e1c",
+                    "name": "Correspondências",
+                    "costCenterMethodId": [
+                        "5abc00cf6b1520077c92ce37"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Despesas Bancárias",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e1d",
+                    "name": "Despesas bancárias",
+                    "costCenterMethodId": [
+                        "5abc00cf6b1520077c92ce37"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Energia elétrica",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e1e",
+                    "name": "Energia elétrica",
+                    "costCenterMethodId": [
+                        "5abc00cf6b1520077c92ce37"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Equipamentos de proteção",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e1f",
+                    "name": "Equipamentos de proteção",
+                    "costCenterMethodId": [
+                        "5abc00cf6b1520077c92ce37"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Honorários advocatícios",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e20",
+                    "name": "Honorários advocatícios",
+                    "costCenterMethodId": [
+                        "5abc00cf6b1520077c92ce37"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Honorários contábeis",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e21",
+                    "name": "Honorários contábeis",
+                    "costCenterMethodId": [
+                        "5abc00cf6b1520077c92ce37"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Internet / Telefone Fixo e Móvel",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e22",
+                    "name": "Internet / Telefone fixo e móvel",
+                    "costCenterMethodId": [
+                        "5abc00cf6b1520077c92ce37"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Lanches",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e23",
+                    "name": "Lanches",
+                    "costCenterMethodId": [
+                        "5abc00cf6b1520077c92ce37"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Licença de software",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e24",
+                    "name": "Licenças de software",
+                    "costCenterMethodId": [
+                        "5abc00cf6b1520077c92ce37"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Manutenção de equipamentos",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e25",
+                    "name": "Manutenção de equipamentos",
+                    "costCenterMethodId": [
+                        "5abc00cf6b1520077c92ce37",
+                        "5d386c74e1582644440b1b91",
+                        "5d386bc8e158263b7057b1ab",
+                        "5d386d67e15826293c1f209c",
+                        "5d386cb9e158263ce44c2aeb",
+                        "5db0a7593a0d57736d093507",
+                        "5d386defe158262fd02f9ba5",
+                        "5d386b30e15826332cef1ffe",
+                        "5d386d0be158263ac047e36e",
+                        "5abc00dc6b1520077c92ce38",
+                        "5d386a49e158264038c18fc5",
+                        "5d386c21e158263c2cd4ca86"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Manutenção de veículos",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e26",
+                    "name": "Manutenção de veículos",
+                    "costCenterMethodId": [
+                        "5abc00cf6b1520077c92ce37"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Manutenção predial",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e27",
+                    "name": "Manutenção predial",
+                    "costCenterMethodId": [
+                        "5abc00cf6b1520077c92ce37"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Marketing",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e28",
+                    "name": "Marketing",
+                    "costCenterMethodId": [
+                        "5abc00cf6b1520077c92ce37"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Material de escritório",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e29",
+                    "name": "Material de escritório",
+                    "costCenterMethodId": [
+                        "5abc00cf6b1520077c92ce37"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Material de limpeza",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e2a",
+                    "name": "Material de limpeza",
+                    "costCenterMethodId": [
+                        "5abc00cf6b1520077c92ce37"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Perdas",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e2c",
+                    "name": "Perdas",
+                    "costCenterMethodId": [
+                        "5abc00cf6b1520077c92ce37"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Seguro predial",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e2d",
+                    "name": "Seguro predial",
+                    "costCenterMethodId": [
+                        "5abc00cf6b1520077c92ce37"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Seguro Veicular",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e2e",
+                    "name": "Seguro veicular",
+                    "costCenterMethodId": [
+                        "5abc00cf6b1520077c92ce37"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Seguro saúde",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e2f",
+                    "name": "Seguros saúde",
+                    "costCenterMethodId": [
+                        "5abc00cf6b1520077c92ce37"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Vale transporte",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e30",
+                    "name": "Vale transporte",
+                    "costCenterMethodId": [
+                        "5abc00cf6b1520077c92ce37"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Viagens",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e31",
+                    "name": "Viagens",
+                    "costCenterMethodId": [
+                        "5abc00cf6b1520077c92ce37"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "IPTU",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e2b",
+                    "name": "Outros",
+                    "costCenterMethodId": [
+                        "5abc00cf6b1520077c92ce37",
+                        "5d386d0be158263ac047e36e",
+                        "5d386c74e1582644440b1b91",
+                        "5d386bc8e158263b7057b1ab",
+                        "5d386d67e15826293c1f209c",
+                        "5d386cb9e158263ce44c2aeb",
+                        "5db0a7593a0d57736d093507",
+                        "5d386defe158262fd02f9ba5",
+                        "5d386b30e15826332cef1ffe",
+                        "5abc00dc6b1520077c92ce38",
+                        "5d386a49e158264038c18fc5",
+                        "5d386c21e158263c2cd4ca86"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "IPVA",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e2b",
+                    "name": "Outros",
+                    "costCenterMethodId": [
+                        "5abc00cf6b1520077c92ce37",
+                        "5d386d0be158263ac047e36e",
+                        "5d386c74e1582644440b1b91",
+                        "5d386bc8e158263b7057b1ab",
+                        "5d386d67e15826293c1f209c",
+                        "5d386cb9e158263ce44c2aeb",
+                        "5db0a7593a0d57736d093507",
+                        "5d386defe158262fd02f9ba5",
+                        "5d386b30e15826332cef1ffe",
+                        "5abc00dc6b1520077c92ce38",
+                        "5d386a49e158264038c18fc5",
+                        "5d386c21e158263c2cd4ca86"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            }
+        ],
+        "costCenterEmployeeExpenses": [
+            {
+                "name": "Pró-Labore",
+                "role": "Diretor",
+                "hoursMonth": 147,
+                "salaryBenefits": 0,
+                "charges": 20,
+                "totalAmount": 0
+            },
+            {
+                "name": "Financeiro",
+                "role": "Financeiro",
+                "hoursMonth": 147,
+                "salaryBenefits": 0,
+                "charges": 45,
+                "totalAmount": 0
+            },
+            {
+                "name": "Recepção",
+                "role": "Recepcionista",
+                "hoursMonth": 147,
+                "salaryBenefits": 0,
+                "charges": 45,
+                "totalAmount": 0
+            }
+        ],
+        "costCenterEquipmentExpenses": [
+            {
+                "name": "Computadores",
+                "equipmentType": {
+                    "id": "5db1d535ece810d5adb60e38",
+                    "name": "Computador",
+                    "isDeleted": false
+                },
+                "remainingLife": 24,
+                "currentValue": 0,
+                "endOfLifeValue": 0,
+                "monthDepreciation": 0
+            },
+            {
+                "name": "Móveis",
+                "equipmentType": {
+                    "id": "5db1d535ece810d5adb60e3b",
+                    "name": "Outro",
+                    "isDeleted": false
+                },
+                "remainingLife": 60,
+                "currentValue": 0,
+                "endOfLifeValue": 0,
+                "monthDepreciation": 0
+            },
+            {
+                "name": "Veículos",
+                "equipmentType": {
+                    "id": "5db1d535ece810d5adb60e3b",
+                    "name": "Outro",
+                    "isDeleted": false
+                },
+                "remainingLife": 36,
+                "currentValue": 0,
+                "endOfLifeValue": 0,
+                "monthDepreciation": 0
+            },
+            {
+                "name": "Outros Imobilizados",
+                "equipmentType": {
+                    "id": "5db1d535ece810d5adb60e3b",
+                    "name": "Outro",
+                    "isDeleted": false
+                },
+                "remainingLife": 60,
+                "currentValue": 0,
+                "endOfLifeValue": 0,
+                "monthDepreciation": 0
+            }
+        ],
+        "deleted": false,
+        "basicExpense": 0,
+        "active": true,
+        "budgetWarning": false,
+        "daysWithoutUpdate": 0,
+        "subsidize": false,
+        "subsidizePercent": 0,
+        "costCenterType": 1,
+        "apportionValue": 0,
+        "costCenterHoursType": null,
+        "productiveHours": null,
+        "hourValue": null,
+        "absorvedValue": null,
+        "absorvedPercent": null,
+        "isSelect": false,
+        "index": 0
+    },
+    {
+        "id": 2,
+        "name": "Comercial",
+        "costCenterMethodId": "5d386a49e158264038c18fc5",
+        "totalAmount": 0,
+        "costCenterRoutineExpenses": [
+            {
+                "name": "Combustível",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e2b",
+                    "name": "Outros",
+                    "costCenterMethodId": [
+                        "5abc00cf6b1520077c92ce37",
+                        "5d386d0be158263ac047e36e",
+                        "5d386c74e1582644440b1b91",
+                        "5d386bc8e158263b7057b1ab",
+                        "5d386d67e15826293c1f209c",
+                        "5d386cb9e158263ce44c2aeb",
+                        "5db0a7593a0d57736d093507",
+                        "5d386defe158262fd02f9ba5",
+                        "5d386b30e15826332cef1ffe",
+                        "5abc00dc6b1520077c92ce38",
+                        "5d386a49e158264038c18fc5",
+                        "5d386c21e158263c2cd4ca86"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Materiais Auxiliares",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e34",
+                    "name": "Materiais auxiliares",
+                    "costCenterMethodId": [
+                        "5d386d0be158263ac047e36e",
+                        "5d386c74e1582644440b1b91",
+                        "5d386bc8e158263b7057b1ab",
+                        "5d386d67e15826293c1f209c",
+                        "5d386cb9e158263ce44c2aeb",
+                        "5db0a7593a0d57736d093507",
+                        "5d386defe158262fd02f9ba5",
+                        "5d386b30e15826332cef1ffe",
+                        "5abc00dc6b1520077c92ce38",
+                        "5d386a49e158264038c18fc5",
+                        "5d386c21e158263c2cd4ca86"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Manutenção de Equipamentos",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e25",
+                    "name": "Manutenção de equipamentos",
+                    "costCenterMethodId": [
+                        "5abc00cf6b1520077c92ce37",
+                        "5d386c74e1582644440b1b91",
+                        "5d386bc8e158263b7057b1ab",
+                        "5d386d67e15826293c1f209c",
+                        "5d386cb9e158263ce44c2aeb",
+                        "5db0a7593a0d57736d093507",
+                        "5d386defe158262fd02f9ba5",
+                        "5d386b30e15826332cef1ffe",
+                        "5d386d0be158263ac047e36e",
+                        "5abc00dc6b1520077c92ce38",
+                        "5d386a49e158264038c18fc5",
+                        "5d386c21e158263c2cd4ca86"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            }
+        ],
+        "costCenterEmployeeExpenses": [
+            {
+                "name": "Vendedor 1",
+                "role": "Vendedor",
+                "hoursMonth": 147,
+                "salaryBenefits": 0,
+                "charges": 45,
+                "totalAmount": 0
+            },
+            {
+                "name": "Vendedor 2",
+                "role": "Vendedor",
+                "hoursMonth": 147,
+                "salaryBenefits": 0,
+                "charges": 45,
+                "totalAmount": 0
+            }
+        ],
+        "costCenterEquipmentExpenses": [
+            {
+                "name": "Veículo 1",
+                "equipmentType": {
+                    "id": "5db1d535ece810d5adb60e3b",
+                    "name": "Outro",
+                    "isDeleted": false
+                },
+                "remainingLife": 36,
+                "currentValue": 0,
+                "endOfLifeValue": 0,
+                "monthDepreciation": 0
+            },
+            {
+                "name": "Computadores",
+                "equipmentType": {
+                    "id": "5db1d535ece810d5adb60e38",
+                    "name": "Computador",
+                    "isDeleted": false
+                },
+                "remainingLife": 36,
+                "currentValue": 0,
+                "endOfLifeValue": 0,
+                "monthDepreciation": 0
+            },
+            {
+                "name": "Moveis",
+                "equipmentType": {
+                    "id": "5db1d535ece810d5adb60e3b",
+                    "name": "Outro",
+                    "isDeleted": false
+                },
+                "remainingLife": 36,
+                "currentValue": 0,
+                "endOfLifeValue": 0,
+                "monthDepreciation": 0
+            }
+        ],
+        "deleted": false,
+        "basicExpense": 0,
+        "active": true,
+        "budgetWarning": false,
+        "daysWithoutUpdate": 0,
+        "subsidize": false,
+        "subsidizePercent": 0,
+        "costCenterType": 1,
+        "apportionValue": 0,
+        "costCenterHoursType": null,
+        "productiveHours": null,
+        "hourValue": null,
+        "absorvedValue": null,
+        "absorvedPercent": null,
+        "isSelect": false,
+        "index": 1
+    },
+    {
+        "id": 3,
+        "name": "Arte Final",
+        "costCenterMethodId": "5d386d0be158263ac047e36e",
+        "totalAmount": 0,
+        "costCenterRoutineExpenses": [
+            {
+                "name": "Materiais Auxiliares",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e34",
+                    "name": "Materiais auxiliares",
+                    "costCenterMethodId": [
+                        "5d386d0be158263ac047e36e",
+                        "5d386c74e1582644440b1b91",
+                        "5d386bc8e158263b7057b1ab",
+                        "5d386d67e15826293c1f209c",
+                        "5d386cb9e158263ce44c2aeb",
+                        "5db0a7593a0d57736d093507",
+                        "5d386defe158262fd02f9ba5",
+                        "5d386b30e15826332cef1ffe",
+                        "5abc00dc6b1520077c92ce38",
+                        "5d386a49e158264038c18fc5",
+                        "5d386c21e158263c2cd4ca86"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Manutenção",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e25",
+                    "name": "Manutenção de equipamentos",
+                    "costCenterMethodId": [
+                        "5abc00cf6b1520077c92ce37",
+                        "5d386c74e1582644440b1b91",
+                        "5d386bc8e158263b7057b1ab",
+                        "5d386d67e15826293c1f209c",
+                        "5d386cb9e158263ce44c2aeb",
+                        "5db0a7593a0d57736d093507",
+                        "5d386defe158262fd02f9ba5",
+                        "5d386b30e15826332cef1ffe",
+                        "5d386d0be158263ac047e36e",
+                        "5abc00dc6b1520077c92ce38",
+                        "5d386a49e158264038c18fc5",
+                        "5d386c21e158263c2cd4ca86"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            }
+        ],
+        "costCenterEmployeeExpenses": [
+            {
+                "name": "Arte Finalista",
+                "role": "Arte Finalista",
+                "hoursMonth": 147,
+                "salaryBenefits": 0,
+                "charges": 45,
+                "totalAmount": 0
+            }
+        ],
+        "costCenterEquipmentExpenses": [
+            {
+                "name": "Computador",
+                "equipmentType": {
+                    "id": "5db1d535ece810d5adb60e38",
+                    "name": "Computador",
+                    "isDeleted": false
+                },
+                "remainingLife": 36,
+                "currentValue": 0,
+                "endOfLifeValue": 0,
+                "monthDepreciation": 0
+            },
+            {
+                "name": "Moveis",
+                "equipmentType": {
+                    "id": "5db1d535ece810d5adb60e3b",
+                    "name": "Outro",
+                    "isDeleted": false
+                },
+                "remainingLife": 36,
+                "currentValue": 0,
+                "endOfLifeValue": 0,
+                "monthDepreciation": 0
+            },
+            {
+                "name": "Impressora",
+                "equipmentType": {
+                    "id": "5db1d535ece810d5adb60e3b",
+                    "name": "Outro",
+                    "isDeleted": false
+                },
+                "remainingLife": 36,
+                "currentValue": 0,
+                "endOfLifeValue": 0,
+                "monthDepreciation": 0
+            }
+        ],
+        "deleted": false,
+        "basicExpense": 0,
+        "active": true,
+        "budgetWarning": false,
+        "daysWithoutUpdate": 0,
+        "subsidize": true,
+        "subsidizePercent": 50,
+        "costCenterType": 2,
+        "apportionValue": 0,
+        "costCenterHoursType": 1,
+        "productiveHours": 147,
+        "hourValue": 0,
+        "absorvedValue": 0,
+        "absorvedPercent": 0,
+        "isSelect": false,
+        "index": 2
+    },
+    {
+        "id": 4,
+        "name": "Impressão",
+        "costCenterMethodId": "5d386c74e1582644440b1b91",
+        "totalAmount": 0,
+        "costCenterRoutineExpenses": [
+            {
+                "name": "Material de Limpeza",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e35",
+                    "name": "Material para limpeza",
+                    "costCenterMethodId": [
+                        "5d386c74e1582644440b1b91",
+                        "5abc00dc6b1520077c92ce38",
+                        "5d386c21e158263c2cd4ca86"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Manutenção",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e25",
+                    "name": "Manutenção de equipamentos",
+                    "costCenterMethodId": [
+                        "5abc00cf6b1520077c92ce37",
+                        "5d386c74e1582644440b1b91",
+                        "5d386bc8e158263b7057b1ab",
+                        "5d386d67e15826293c1f209c",
+                        "5d386cb9e158263ce44c2aeb",
+                        "5db0a7593a0d57736d093507",
+                        "5d386defe158262fd02f9ba5",
+                        "5d386b30e15826332cef1ffe",
+                        "5d386d0be158263ac047e36e",
+                        "5abc00dc6b1520077c92ce38",
+                        "5d386a49e158264038c18fc5",
+                        "5d386c21e158263c2cd4ca86"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Materiais Auxiliares",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e34",
+                    "name": "Materiais auxiliares",
+                    "costCenterMethodId": [
+                        "5d386d0be158263ac047e36e",
+                        "5d386c74e1582644440b1b91",
+                        "5d386bc8e158263b7057b1ab",
+                        "5d386d67e15826293c1f209c",
+                        "5d386cb9e158263ce44c2aeb",
+                        "5db0a7593a0d57736d093507",
+                        "5d386defe158262fd02f9ba5",
+                        "5d386b30e15826332cef1ffe",
+                        "5abc00dc6b1520077c92ce38",
+                        "5d386a49e158264038c18fc5",
+                        "5d386c21e158263c2cd4ca86"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Tinta não imprimível",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e2b",
+                    "name": "Outros",
+                    "costCenterMethodId": [
+                        "5abc00cf6b1520077c92ce37",
+                        "5d386d0be158263ac047e36e",
+                        "5d386c74e1582644440b1b91",
+                        "5d386bc8e158263b7057b1ab",
+                        "5d386d67e15826293c1f209c",
+                        "5d386cb9e158263ce44c2aeb",
+                        "5db0a7593a0d57736d093507",
+                        "5d386defe158262fd02f9ba5",
+                        "5d386b30e15826332cef1ffe",
+                        "5abc00dc6b1520077c92ce38",
+                        "5d386a49e158264038c18fc5",
+                        "5d386c21e158263c2cd4ca86"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            }
+        ],
+        "costCenterEmployeeExpenses": [
+            {
+                "name": "Impressor",
+                "role": "Impressor",
+                "hoursMonth": 147,
+                "salaryBenefits": 0,
+                "charges": 45,
+                "totalAmount": 0
+            }
+        ],
+        "costCenterEquipmentExpenses": [
+            {
+                "name": "Impressora 1",
+                "equipmentType": {
+                    "id": "5db1d535ece810d5adb60e37",
+                    "name": "Impressora",
+                    "isDeleted": false
+                },
+                "remainingLife": 48,
+                "currentValue": 0,
+                "endOfLifeValue": 0,
+                "monthDepreciation": 0
+            },
+            {
+                "name": "Impressora 2",
+                "equipmentType": {
+                    "id": "5db1d535ece810d5adb60e37",
+                    "name": "Impressora",
+                    "isDeleted": false
+                },
+                "remainingLife": 48,
+                "currentValue": 0,
+                "endOfLifeValue": 0,
+                "monthDepreciation": 0
+            },
+            {
+                "name": "Computadores",
+                "equipmentType": {
+                    "id": "5db1d535ece810d5adb60e38",
+                    "name": "Computador",
+                    "isDeleted": false
+                },
+                "remainingLife": 48,
+                "currentValue": 0,
+                "endOfLifeValue": 0,
+                "monthDepreciation": 0
+            },
+            {
+                "name": "Nobreak",
+                "equipmentType": {
+                    "id": "5db1d535ece810d5adb60e3b",
+                    "name": "Outro",
+                    "isDeleted": false
+                },
+                "remainingLife": 48,
+                "currentValue": 0,
+                "endOfLifeValue": 0,
+                "monthDepreciation": 0
+            }
+        ],
+        "deleted": false,
+        "basicExpense": 0,
+        "active": true,
+        "budgetWarning": false,
+        "daysWithoutUpdate": 0,
+        "subsidize": false,
+        "subsidizePercent": 0,
+        "costCenterType": 2,
+        "apportionValue": 0,
+        "costCenterHoursType": 2,
+        "productiveHours": 294,
+        "hourValue": 0,
+        "absorvedValue": 0,
+        "absorvedPercent": 0,
+        "isSelect": false,
+        "index": 3
+    },
+    {
+        "id": 5,
+        "name": "Acabamento",
+        "costCenterMethodId": "5d386bc8e158263b7057b1ab",
+        "totalAmount": 0,
+        "costCenterRoutineExpenses": [
+            {
+                "name": "Fitas",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e34",
+                    "name": "Materiais auxiliares",
+                    "costCenterMethodId": [
+                        "5d386d0be158263ac047e36e",
+                        "5d386c74e1582644440b1b91",
+                        "5d386bc8e158263b7057b1ab",
+                        "5d386d67e15826293c1f209c",
+                        "5d386cb9e158263ce44c2aeb",
+                        "5db0a7593a0d57736d093507",
+                        "5d386defe158262fd02f9ba5",
+                        "5d386b30e15826332cef1ffe",
+                        "5abc00dc6b1520077c92ce38",
+                        "5d386a49e158264038c18fc5",
+                        "5d386c21e158263c2cd4ca86"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Grampos",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e34",
+                    "name": "Materiais auxiliares",
+                    "costCenterMethodId": [
+                        "5d386d0be158263ac047e36e",
+                        "5d386c74e1582644440b1b91",
+                        "5d386bc8e158263b7057b1ab",
+                        "5d386d67e15826293c1f209c",
+                        "5d386cb9e158263ce44c2aeb",
+                        "5db0a7593a0d57736d093507",
+                        "5d386defe158262fd02f9ba5",
+                        "5d386b30e15826332cef1ffe",
+                        "5abc00dc6b1520077c92ce38",
+                        "5d386a49e158264038c18fc5",
+                        "5d386c21e158263c2cd4ca86"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Colas",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e34",
+                    "name": "Materiais auxiliares",
+                    "costCenterMethodId": [
+                        "5d386d0be158263ac047e36e",
+                        "5d386c74e1582644440b1b91",
+                        "5d386bc8e158263b7057b1ab",
+                        "5d386d67e15826293c1f209c",
+                        "5d386cb9e158263ce44c2aeb",
+                        "5db0a7593a0d57736d093507",
+                        "5d386defe158262fd02f9ba5",
+                        "5d386b30e15826332cef1ffe",
+                        "5abc00dc6b1520077c92ce38",
+                        "5d386a49e158264038c18fc5",
+                        "5d386c21e158263c2cd4ca86"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Manutenção de Equipamentos",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e25",
+                    "name": "Manutenção de equipamentos",
+                    "costCenterMethodId": [
+                        "5abc00cf6b1520077c92ce37",
+                        "5d386c74e1582644440b1b91",
+                        "5d386bc8e158263b7057b1ab",
+                        "5d386d67e15826293c1f209c",
+                        "5d386cb9e158263ce44c2aeb",
+                        "5db0a7593a0d57736d093507",
+                        "5d386defe158262fd02f9ba5",
+                        "5d386b30e15826332cef1ffe",
+                        "5d386d0be158263ac047e36e",
+                        "5abc00dc6b1520077c92ce38",
+                        "5d386a49e158264038c18fc5",
+                        "5d386c21e158263c2cd4ca86"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Outros materiais auxiliares",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e34",
+                    "name": "Materiais auxiliares",
+                    "costCenterMethodId": [
+                        "5d386d0be158263ac047e36e",
+                        "5d386c74e1582644440b1b91",
+                        "5d386bc8e158263b7057b1ab",
+                        "5d386d67e15826293c1f209c",
+                        "5d386cb9e158263ce44c2aeb",
+                        "5db0a7593a0d57736d093507",
+                        "5d386defe158262fd02f9ba5",
+                        "5d386b30e15826332cef1ffe",
+                        "5abc00dc6b1520077c92ce38",
+                        "5d386a49e158264038c18fc5",
+                        "5d386c21e158263c2cd4ca86"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            }
+        ],
+        "costCenterEmployeeExpenses": [
+            {
+                "name": "Acabamentista 1",
+                "role": "Acabamentista",
+                "hoursMonth": 147,
+                "salaryBenefits": 0,
+                "charges": 45,
+                "totalAmount": 0
+            },
+            {
+                "name": "Acabamentista 2",
+                "role": "Acabamentista",
+                "hoursMonth": 147,
+                "salaryBenefits": 0,
+                "charges": 45,
+                "totalAmount": 0
+            }
+        ],
+        "costCenterEquipmentExpenses": [
+            {
+                "name": "Solda Lona",
+                "equipmentType": {
+                    "id": "5db1d535ece810d5adb60e3b",
+                    "name": "Outro",
+                    "isDeleted": false
+                },
+                "remainingLife": 60,
+                "currentValue": 0,
+                "endOfLifeValue": 0,
+                "monthDepreciation": 0
+            },
+            {
+                "name": "Ilhoseira",
+                "equipmentType": {
+                    "id": "5db1d535ece810d5adb60e3b",
+                    "name": "Outro",
+                    "isDeleted": false
+                },
+                "remainingLife": 60,
+                "currentValue": 0,
+                "endOfLifeValue": 0,
+                "monthDepreciation": 0
+            },
+            {
+                "name": "Outros",
+                "equipmentType": {
+                    "id": "5db1d535ece810d5adb60e3b",
+                    "name": "Outro",
+                    "isDeleted": false
+                },
+                "remainingLife": 60,
+                "currentValue": 0,
+                "endOfLifeValue": 0,
+                "monthDepreciation": 0
+            }
+        ],
+        "deleted": false,
+        "basicExpense": 0,
+        "active": true,
+        "budgetWarning": false,
+        "daysWithoutUpdate": 0,
+        "subsidize": false,
+        "subsidizePercent": 0,
+        "costCenterType": 2,
+        "apportionValue": 0,
+        "costCenterHoursType": 1,
+        "productiveHours": 294,
+        "hourValue": 0,
+        "absorvedValue": 0,
+        "absorvedPercent": 0,
+        "isSelect": false,
+        "index": 4
+    },
+    {
+        "id": 6,
+        "name": "Instalação",
+        "costCenterMethodId": "5d386cb9e158263ce44c2aeb",
+        "totalAmount": 0,
+        "costCenterRoutineExpenses": [
+            {
+                "name": "Ferramentas",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e36",
+                    "name": "Ferramentas e auxiliares",
+                    "costCenterMethodId": [
+                        "5d386c74e1582644440b1b91",
+                        "5d386d67e15826293c1f209c",
+                        "5d386cb9e158263ce44c2aeb",
+                        "5db0a7593a0d57736d093507",
+                        "5d386defe158262fd02f9ba5",
+                        "5d386b30e15826332cef1ffe",
+                        "5abc00dc6b1520077c92ce38",
+                        "5d386a49e158264038c18fc5",
+                        "5d386c21e158263c2cd4ca86"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Combustível",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e2b",
+                    "name": "Outros",
+                    "costCenterMethodId": [
+                        "5abc00cf6b1520077c92ce37",
+                        "5d386d0be158263ac047e36e",
+                        "5d386c74e1582644440b1b91",
+                        "5d386bc8e158263b7057b1ab",
+                        "5d386d67e15826293c1f209c",
+                        "5d386cb9e158263ce44c2aeb",
+                        "5db0a7593a0d57736d093507",
+                        "5d386defe158262fd02f9ba5",
+                        "5d386b30e15826332cef1ffe",
+                        "5abc00dc6b1520077c92ce38",
+                        "5d386a49e158264038c18fc5",
+                        "5d386c21e158263c2cd4ca86"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Materiais Auxiliares",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e34",
+                    "name": "Materiais auxiliares",
+                    "costCenterMethodId": [
+                        "5d386d0be158263ac047e36e",
+                        "5d386c74e1582644440b1b91",
+                        "5d386bc8e158263b7057b1ab",
+                        "5d386d67e15826293c1f209c",
+                        "5d386cb9e158263ce44c2aeb",
+                        "5db0a7593a0d57736d093507",
+                        "5d386defe158262fd02f9ba5",
+                        "5d386b30e15826332cef1ffe",
+                        "5abc00dc6b1520077c92ce38",
+                        "5d386a49e158264038c18fc5",
+                        "5d386c21e158263c2cd4ca86"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Manutenção",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e25",
+                    "name": "Manutenção de equipamentos",
+                    "costCenterMethodId": [
+                        "5abc00cf6b1520077c92ce37",
+                        "5d386c74e1582644440b1b91",
+                        "5d386bc8e158263b7057b1ab",
+                        "5d386d67e15826293c1f209c",
+                        "5d386cb9e158263ce44c2aeb",
+                        "5db0a7593a0d57736d093507",
+                        "5d386defe158262fd02f9ba5",
+                        "5d386b30e15826332cef1ffe",
+                        "5d386d0be158263ac047e36e",
+                        "5abc00dc6b1520077c92ce38",
+                        "5d386a49e158264038c18fc5",
+                        "5d386c21e158263c2cd4ca86"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            }
+        ],
+        "costCenterEmployeeExpenses": [
+            {
+                "name": "Instalador 1",
+                "role": "Instalador",
+                "hoursMonth": 147,
+                "salaryBenefits": 0,
+                "charges": 45,
+                "totalAmount": 0
+            },
+            {
+                "name": "Instalador 2",
+                "role": "Instalador",
+                "hoursMonth": 147,
+                "salaryBenefits": 0,
+                "charges": 45,
+                "totalAmount": 0
+            }
+        ],
+        "costCenterEquipmentExpenses": [
+            {
+                "name": "Veículo",
+                "equipmentType": {
+                    "id": "5db1d535ece810d5adb60e3b",
+                    "name": "Outro",
+                    "isDeleted": false
+                },
+                "remainingLife": 48,
+                "currentValue": 0,
+                "endOfLifeValue": 0,
+                "monthDepreciation": 0
+            },
+            {
+                "name": "Escadas/Andaime",
+                "equipmentType": {
+                    "id": "5db1d535ece810d5adb60e3b",
+                    "name": "Outro",
+                    "isDeleted": false
+                },
+                "remainingLife": 60,
+                "currentValue": 0,
+                "endOfLifeValue": 0,
+                "monthDepreciation": 0
+            },
+            {
+                "name": "Outras Ferramentas",
+                "equipmentType": {
+                    "id": "5db1d535ece810d5adb60e3b",
+                    "name": "Outro",
+                    "isDeleted": false
+                },
+                "remainingLife": 60,
+                "currentValue": 0,
+                "endOfLifeValue": 0,
+                "monthDepreciation": 0
+            }
+        ],
+        "deleted": false,
+        "basicExpense": 0,
+        "active": true,
+        "budgetWarning": false,
+        "daysWithoutUpdate": 0,
+        "subsidize": false,
+        "subsidizePercent": 0,
+        "costCenterType": 2,
+        "apportionValue": 0,
+        "costCenterHoursType": 1,
+        "productiveHours": 294,
+        "hourValue": 0,
+        "absorvedValue": 0,
+        "absorvedPercent": 0,
+        "isSelect": false,
+        "index": 5
+    },
+    {
+        "id": 7,
+        "name": "Expedição",
+        "costCenterMethodId": "5d386c21e158263c2cd4ca86",
+        "totalAmount": 0,
+        "costCenterRoutineExpenses": [
+            {
+                "name": "Embalagens",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e34",
+                    "name": "Materiais auxiliares",
+                    "costCenterMethodId": [
+                        "5d386d0be158263ac047e36e",
+                        "5d386c74e1582644440b1b91",
+                        "5d386bc8e158263b7057b1ab",
+                        "5d386d67e15826293c1f209c",
+                        "5d386cb9e158263ce44c2aeb",
+                        "5db0a7593a0d57736d093507",
+                        "5d386defe158262fd02f9ba5",
+                        "5d386b30e15826332cef1ffe",
+                        "5abc00dc6b1520077c92ce38",
+                        "5d386a49e158264038c18fc5",
+                        "5d386c21e158263c2cd4ca86"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Fitas",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e34",
+                    "name": "Materiais auxiliares",
+                    "costCenterMethodId": [
+                        "5d386d0be158263ac047e36e",
+                        "5d386c74e1582644440b1b91",
+                        "5d386bc8e158263b7057b1ab",
+                        "5d386d67e15826293c1f209c",
+                        "5d386cb9e158263ce44c2aeb",
+                        "5db0a7593a0d57736d093507",
+                        "5d386defe158262fd02f9ba5",
+                        "5d386b30e15826332cef1ffe",
+                        "5abc00dc6b1520077c92ce38",
+                        "5d386a49e158264038c18fc5",
+                        "5d386c21e158263c2cd4ca86"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Colas",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e34",
+                    "name": "Materiais auxiliares",
+                    "costCenterMethodId": [
+                        "5d386d0be158263ac047e36e",
+                        "5d386c74e1582644440b1b91",
+                        "5d386bc8e158263b7057b1ab",
+                        "5d386d67e15826293c1f209c",
+                        "5d386cb9e158263ce44c2aeb",
+                        "5db0a7593a0d57736d093507",
+                        "5d386defe158262fd02f9ba5",
+                        "5d386b30e15826332cef1ffe",
+                        "5abc00dc6b1520077c92ce38",
+                        "5d386a49e158264038c18fc5",
+                        "5d386c21e158263c2cd4ca86"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Outros materiais auxiliares",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e34",
+                    "name": "Materiais auxiliares",
+                    "costCenterMethodId": [
+                        "5d386d0be158263ac047e36e",
+                        "5d386c74e1582644440b1b91",
+                        "5d386bc8e158263b7057b1ab",
+                        "5d386d67e15826293c1f209c",
+                        "5d386cb9e158263ce44c2aeb",
+                        "5db0a7593a0d57736d093507",
+                        "5d386defe158262fd02f9ba5",
+                        "5d386b30e15826332cef1ffe",
+                        "5abc00dc6b1520077c92ce38",
+                        "5d386a49e158264038c18fc5",
+                        "5d386c21e158263c2cd4ca86"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            }
+        ],
+        "costCenterEmployeeExpenses": [
+            {
+                "name": "Almoxarife",
+                "role": "Almoxarife",
+                "hoursMonth": 147,
+                "salaryBenefits": 0,
+                "charges": 45,
+                "totalAmount": 0
+            }
+        ],
+        "costCenterEquipmentExpenses": [
+            {
+                "name": "Ar condicionado",
+                "equipmentType": {
+                    "id": "5db1d535ece810d5adb60e3b",
+                    "name": "Outro",
+                    "isDeleted": false
+                },
+                "remainingLife": 60,
+                "currentValue": 0,
+                "endOfLifeValue": 0,
+                "monthDepreciation": 0
+            },
+            {
+                "name": "Móveis e Prateleiras",
+                "equipmentType": {
+                    "id": "5db1d535ece810d5adb60e3b",
+                    "name": "Outro",
+                    "isDeleted": false
+                },
+                "remainingLife": 60,
+                "currentValue": 0,
+                "endOfLifeValue": 0,
+                "monthDepreciation": 0
+            }
+        ],
+        "deleted": false,
+        "basicExpense": 0,
+        "active": true,
+        "budgetWarning": false,
+        "daysWithoutUpdate": 0,
+        "subsidize": false,
+        "subsidizePercent": 0,
+        "costCenterType": 2,
+        "apportionValue": 0,
+        "costCenterHoursType": 1,
+        "productiveHours": 147,
+        "hourValue": 0,
+        "absorvedValue": 0,
+        "absorvedPercent": 0,
+        "isSelect": false,
+        "index": 6
+    },
+    {
+        "id": 9,
+        "name": "Produção",
+        "costCenterMethodId": "5abc00dc6b1520077c92ce38",
+        "totalAmount": 0,
+        "costCenterRoutineExpenses": [
+            {
+                "name": "Manutenção",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e25",
+                    "name": "Manutenção de equipamentos",
+                    "costCenterMethodId": [
+                        "5abc00cf6b1520077c92ce37",
+                        "5d386c74e1582644440b1b91",
+                        "5d386bc8e158263b7057b1ab",
+                        "5d386d67e15826293c1f209c",
+                        "5d386cb9e158263ce44c2aeb",
+                        "5db0a7593a0d57736d093507",
+                        "5d386defe158262fd02f9ba5",
+                        "5d386b30e15826332cef1ffe",
+                        "5d386d0be158263ac047e36e",
+                        "5abc00dc6b1520077c92ce38",
+                        "5d386a49e158264038c18fc5",
+                        "5d386c21e158263c2cd4ca86"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Materiais Auxiliares",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e34",
+                    "name": "Materiais auxiliares",
+                    "costCenterMethodId": [
+                        "5d386d0be158263ac047e36e",
+                        "5d386c74e1582644440b1b91",
+                        "5d386bc8e158263b7057b1ab",
+                        "5d386d67e15826293c1f209c",
+                        "5d386cb9e158263ce44c2aeb",
+                        "5db0a7593a0d57736d093507",
+                        "5d386defe158262fd02f9ba5",
+                        "5d386b30e15826332cef1ffe",
+                        "5abc00dc6b1520077c92ce38",
+                        "5d386a49e158264038c18fc5",
+                        "5d386c21e158263c2cd4ca86"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Molde para serigrafia",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e36",
+                    "name": "Ferramentas e auxiliares",
+                    "costCenterMethodId": [
+                        "5d386c74e1582644440b1b91",
+                        "5d386d67e15826293c1f209c",
+                        "5d386cb9e158263ce44c2aeb",
+                        "5db0a7593a0d57736d093507",
+                        "5d386defe158262fd02f9ba5",
+                        "5d386b30e15826332cef1ffe",
+                        "5abc00dc6b1520077c92ce38",
+                        "5d386a49e158264038c18fc5",
+                        "5d386c21e158263c2cd4ca86"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            }
+        ],
+        "costCenterEmployeeExpenses": [
+            {
+                "name": "Serralheiro",
+                "role": "Serralheiro",
+                "hoursMonth": 147,
+                "salaryBenefits": 0,
+                "charges": 45,
+                "totalAmount": 0
+            },
+            {
+                "name": "Pintor",
+                "role": "Pintor",
+                "hoursMonth": 147,
+                "salaryBenefits": 0,
+                "charges": 45,
+                "totalAmount": 0
+            },
+            {
+                "name": "Auxiliar 1",
+                "role": "Auxiliar",
+                "hoursMonth": 147,
+                "salaryBenefits": 0,
+                "charges": 45,
+                "totalAmount": 0
+            },
+            {
+                "name": "Auxiliar 2",
+                "role": "Auxiliar",
+                "hoursMonth": 147,
+                "salaryBenefits": 0,
+                "charges": 45,
+                "totalAmount": 0
+            }
+        ],
+        "costCenterEquipmentExpenses": [
+            {
+                "name": "Solda",
+                "equipmentType": {
+                    "id": "5db1d535ece810d5adb60e3b",
+                    "name": "Outro",
+                    "isDeleted": false
+                },
+                "remainingLife": 60,
+                "currentValue": 0,
+                "endOfLifeValue": 0,
+                "monthDepreciation": 0
+            },
+            {
+                "name": "Cabine de Pintura",
+                "equipmentType": {
+                    "id": "5db1d535ece810d5adb60e3b",
+                    "name": "Outro",
+                    "isDeleted": false
+                },
+                "remainingLife": 60,
+                "currentValue": 0,
+                "endOfLifeValue": 0,
+                "monthDepreciation": 0
+            },
+            {
+                "name": "Outros Equipamentos",
+                "equipmentType": {
+                    "id": "5db1d535ece810d5adb60e3b",
+                    "name": "Outro",
+                    "isDeleted": false
+                },
+                "remainingLife": 60,
+                "currentValue": 0,
+                "endOfLifeValue": 0,
+                "monthDepreciation": 0
+            }
+        ],
+        "deleted": false,
+        "basicExpense": 0,
+        "active": true,
+        "budgetWarning": false,
+        "daysWithoutUpdate": 0,
+        "subsidize": false,
+        "subsidizePercent": 0,
+        "costCenterType": 2,
+        "apportionValue": 0,
+        "costCenterHoursType": 1,
+        "productiveHours": 588,
+        "hourValue": 0,
+        "absorvedValue": 0,
+        "absorvedPercent": 100,
+        "isSelect": false,
+        "index": 7
+    },
+    {
+        "id": 10,
+        "name": "Corte",
+        "costCenterMethodId": "5abc00dc6b1520077c92ce38",
+        "totalAmount": 0,
+        "costCenterRoutineExpenses": [
+            {
+                "name": "Manutenção de equipamentos",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e25",
+                    "name": "Manutenção de equipamentos",
+                    "costCenterMethodId": [
+                        "5abc00cf6b1520077c92ce37",
+                        "5d386c74e1582644440b1b91",
+                        "5d386bc8e158263b7057b1ab",
+                        "5d386d67e15826293c1f209c",
+                        "5d386cb9e158263ce44c2aeb",
+                        "5db0a7593a0d57736d093507",
+                        "5d386defe158262fd02f9ba5",
+                        "5d386b30e15826332cef1ffe",
+                        "5d386d0be158263ac047e36e",
+                        "5abc00dc6b1520077c92ce38",
+                        "5d386a49e158264038c18fc5",
+                        "5d386c21e158263c2cd4ca86"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Materiais Auxiliares",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e34",
+                    "name": "Materiais auxiliares",
+                    "costCenterMethodId": [
+                        "5d386d0be158263ac047e36e",
+                        "5d386c74e1582644440b1b91",
+                        "5d386bc8e158263b7057b1ab",
+                        "5d386d67e15826293c1f209c",
+                        "5d386cb9e158263ce44c2aeb",
+                        "5db0a7593a0d57736d093507",
+                        "5d386defe158262fd02f9ba5",
+                        "5d386b30e15826332cef1ffe",
+                        "5abc00dc6b1520077c92ce38",
+                        "5d386a49e158264038c18fc5",
+                        "5d386c21e158263c2cd4ca86"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            },
+            {
+                "name": "Material de Limpeza",
+                "costCenterExpenseType": {
+                    "id": "5db1d534ece810d5adb60e35",
+                    "name": "Material para limpeza",
+                    "costCenterMethodId": [
+                        "5d386c74e1582644440b1b91",
+                        "5abc00dc6b1520077c92ce38",
+                        "5d386c21e158263c2cd4ca86"
+                    ],
+                    "isDeleted": false
+                },
+                "amount": 0
+            }
+        ],
+        "costCenterEmployeeExpenses": [
+            {
+                "name": "Operador",
+                "role": "Operador",
+                "hoursMonth": 147,
+                "salaryBenefits": 0,
+                "charges": 45,
+                "totalAmount": 0
+            }
+        ],
+        "costCenterEquipmentExpenses": [
+            {
+                "name": "Router CNC",
+                "equipmentType": {
+                    "id": "5db1d535ece810d5adb60e39",
+                    "name": "Router CNC",
+                    "isDeleted": false
+                },
+                "remainingLife": 48,
+                "currentValue": 0,
+                "endOfLifeValue": 0,
+                "monthDepreciation": 0
+            },
+            {
+                "name": "Corte Laser",
+                "equipmentType": {
+                    "id": "5db1d535ece810d5adb60e3a",
+                    "name": "Laser",
+                    "isDeleted": false
+                },
+                "remainingLife": 48,
+                "currentValue": 0,
+                "endOfLifeValue": 0,
+                "monthDepreciation": 0
+            },
+            {
+                "name": "Nobreak",
+                "equipmentType": {
+                    "id": "5db1d535ece810d5adb60e3b",
+                    "name": "Outro",
+                    "isDeleted": false
+                },
+                "remainingLife": 48,
+                "currentValue": 0,
+                "endOfLifeValue": 0,
+                "monthDepreciation": 0
+            }
+        ],
+        "deleted": false,
+        "basicExpense": 0,
+        "active": true,
+        "budgetWarning": false,
+        "daysWithoutUpdate": 0,
+        "subsidize": false,
+        "subsidizePercent": 0,
+        "costCenterType": 2,
+        "apportionValue": 0,
+        "costCenterHoursType": 2,
+        "productiveHours": 110,
+        "hourValue": 0,
+        "absorvedValue": 0,
+        "absorvedPercent": 0,
+        "isSelect": false,
+        "index": 8
+    }
+]
